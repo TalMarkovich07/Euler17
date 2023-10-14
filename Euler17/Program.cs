@@ -28,6 +28,7 @@ namespace Euler17
             Console.WriteLine(sum);
         }
         //try
+        //try
         public static int Search(int n)//gets a number and return in which line he is in the matrix "a"
         {
             for(int i = 0; i < a.GetLength(0); i++)
